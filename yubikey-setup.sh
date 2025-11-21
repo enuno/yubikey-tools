@@ -1,0 +1,1 @@
+scripts/automation/yubikey-setup/yubikey-setup.sh
