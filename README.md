@@ -1,5 +1,7 @@
 # YubiKey Tools
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/enuno/yubikey-tools)
+
 A comprehensive collection of tools for configuring, managing, and automating YubiKey hardware security keys. This project focuses on providing developers and security administrators with reliable, well-tested utilities for YubiKey lifecycle management, batch configuration, security auditing, and integration with enterprise authentication systems.
 
 ## Features
